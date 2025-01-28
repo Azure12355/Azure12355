@@ -1,7 +1,7 @@
 
 
-<div style="text-align:center">
-    <img src="./assets/avatar.jpg" alt="avatar" style="border-radius: 10px; width: 150px; height: 150px;" />
+<div align="center">
+    <img src="./assets/GoHeader.jpg" alt="avatar"  style="border-radius: 10px" width="150px"  />
 </div>
 
 <div>
