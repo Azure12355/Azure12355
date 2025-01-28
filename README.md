@@ -87,7 +87,7 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 ## 开源小游戏🎮
 希望游戏能给你沉闷的生活带来一点乐趣:
 - 使用纯html编写的 [2048小游戏(点我直接开玩)](https://azure12355.github.io/game-2048/) | [开源地址](https://github.com/Azure12355/game-2048)
-
+- 超经典的童年小游戏, 包你百玩不厌的 [坦克大战(一起happy吧!!!)](https://azure12355.github.io/game-tank-battle/) | [开源地址](https://github.com/Azure12355/game-tank-battle) 
 <div align="center">
     <img src="./assets/header_1.png" alt="avatar"  style="border-radius: 10px"   />
 </div>
