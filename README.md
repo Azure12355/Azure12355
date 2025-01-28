@@ -29,6 +29,7 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 - 🎋听说你也是全栈程序员? 不好意思, 鄙人还会点算法🤡
 - 🥘被编程耽搁的天才厨子, 毕竟编程哪有做饭香🍜
 
+<div align="center">
 <table>
   <tr align="center">
     <td align="center" width="96">
@@ -81,6 +82,7 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=azure12355&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
