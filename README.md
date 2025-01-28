@@ -84,6 +84,15 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 </table>
 </div>
 
+## 开源小游戏🎮
+希望游戏能给你沉闷的生活带来一点乐趣:
+- 使用纯html编写的 [2048小游戏(点我直接开玩)](https://azure12355.github.io/game-2048/) | [开源地址](https://github.com/Azure12355/game-2048)
+
+<div align="center">
+    <img src="./assets/header_1.png" alt="avatar"  style="border-radius: 10px"   />
+</div>
+
+
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=azure12355&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azure12355&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
