@@ -30,7 +30,7 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 - 🥘被编程耽搁的天才橱子, 毕竟编程哪有做饭香🍜
 
 <table>
-  <tr>
+  <tr align="center">
     <td align="center" width="96">
       <a  href="#个人技术栈">
         <img src="./assets/java.svg" width="48" height="48" alt="Java"  />
@@ -83,8 +83,8 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 </table>
 
 <div align="center">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=azure12355&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azure12355&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=azure12355&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azure12355&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <div align="center">
