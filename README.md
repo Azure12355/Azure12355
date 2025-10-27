@@ -147,6 +147,40 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
   ![Spine](https://img.shields.io/badge/Spine-FFB83D?style=flat&logo=spine&logoColor=black)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+<div align="center" class="icon-container">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+    <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
+    <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
+    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" />
+    <img src="https://skillicons.dev/icons?i=activitypub" alt="ActivityPub" />
+    <img src="https://skillicons.dev/icons?i=clion" alt="CLion" />
+    <img src="https://skillicons.dev/icons?i=actix" alt="Actix" />
+    <img src="https://skillicons.dev/icons?i=adonis" alt="Adonis" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  </div>
 
 ## 开源小游戏🎮
 希望游戏能给你沉闷的生活带来一点乐趣:
