@@ -37,6 +37,11 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 - 💻业余黑客，取服务器首级如探囊取物😎
 - 🪼Vibe Coding忠实粉丝，AI必将改变人类🌋
 
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
+
+
 <div align="center">
 <table>
   <tr align="center">
