@@ -115,7 +115,7 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
     <img src="./assets/round-icon18-c.svg" alt="C" />
     <img src="./assets/round-icon19-conda.svg" alt="Anaconda" />
     <img src="./assets/round-icon20-cpp.svg" alt="C++" />
-    <img src="./assets/round-icon32-c#.svg" alt="C#" />
+    <img src="./assets/round-icon32-ccc.svg" alt="C#" />
     <img src="./assets/round-icon21-blue.svg" alt="Bootstrap" />
     <img src="./assets/round-icon22-eye.svg" alt="Blender" />
     <img src="./assets/round-icon23-box.svg" alt="Bash" />
