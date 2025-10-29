@@ -95,38 +95,38 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 
 ---
 <div align="center" class="icon-container">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
-    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-    <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
-    <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
-    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" />
-    <img src="https://skillicons.dev/icons?i=activitypub" alt="ActivityPub" />
-    <img src="https://skillicons.dev/icons?i=clion" alt="CLion" />
-    <img src="https://skillicons.dev/icons?i=actix" alt="Actix" />
-    <img src="https://skillicons.dev/icons?i=adonis" alt="Adonis" />
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+    <img src="./assets/round-icon01-python.svg" alt="Python" />
+    <img src="./assets/round-icon02-kotlin.svg" alt="Kotlin" />
+    <img src="./assets/round-icon03-google-cloud.svg" alt="GCP" />
+    <img src="./assets/round-icon04-azure.svg" alt="Azure" />
+    <img src="./assets/round-icon05-html.svg" alt="HTML" />
+    <img src="./assets/round-icon06-css.svg" alt="CSS" />
+    <img src="./assets/round-icon07-js.svg" alt="JavaScript" />
+    <img src="./assets/round-icon08-react.svg" alt="React" />
+    <img src="./assets/round-icon09-nodejs.svg" alt="Node.js" />
+    <img src="./assets/round-icon10-express.svg" alt="Express" />
+    <img src="./assets/round-icon11-mongodb.svg" alt="MongoDB" />
+    <img src="./assets/round-icon12-git.svg" alt="Git" />
+    <img src="./assets/round-icon13-github.svg" alt="GitHub" />
+    <img src="./assets/round-icon14-vscode.svg" alt="VSCode" />
+    <img src="./assets/round-icon15-figama.svg" alt="Figma" />
+    <img src="./assets/round-icon16-k8s.svg" alt="Kubernetes" />
+    <img src="./assets/round-icon17-docker.svg" alt="Docker" />
+    <img src="./assets/round-icon18-c.svg" alt="C" />
+    <img src="./assets/round-icon19-conda.svg" alt="Anaconda" />
+    <img src="./assets/round-icon20-cpp.svg" alt="C++" />
+    <img src="./assets/round-icon32-c#.svg" alt="C#" />
+    <img src="./assets/round-icon21-blue.svg" alt="Bootstrap" />
+    <img src="./assets/round-icon22-eye.svg" alt="Blender" />
+    <img src="./assets/round-icon23-box.svg" alt="Bash" />
+    <img src="./assets/round-icon26-a.svg" alt="Atom" />
+    <img src="./assets/round-icon25-apple.svg" alt="Apple" />
+    <img src="./assets/round-icon27-b.svg" alt="Ansible" />
+    <img src="./assets/round-icon26-a.svg" alt="ActivityPub" />
+    <img src="./assets/round-icon28-clion.svg" alt="CLion" />
+    <img src="./assets/round-icon30-c.svg" alt="Actix" />
+    <img src="./assets/round-icon27-b.svg" alt="Adonis" />
+    <img src="./assets/round-icon31-android.svg" alt="Android Studio" />
   </div>
 
 ## 开源小游戏🎮
