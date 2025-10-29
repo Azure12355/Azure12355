@@ -149,7 +149,7 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 </div>
 
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=azure12355&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+  <img  src="./assets/user-private-trophy.svg" />
 </div>
 <!---
 Azure12355/Azure12355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
