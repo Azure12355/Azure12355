@@ -22,7 +22,7 @@ Hello，我是一位程序员 + 学生 + 博主 + 科技爱好者:
 - 💫励志成为一名大up主\(^o^)/~ 欢迎访问我的B站：[叫我蔚蓝就好](https://space.bilibili.com/473970050)
 
 <div style="margin-top: 200px;">
-  <img style="margin-top: 200px;" src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" top="200px" alt="A professional animation coder gif"/>
+  <img style="margin-top: 200px;" src="./assets/user-private-work.gif" width="300px" align="right" top="200px" alt="A professional animation coder gif"/>
 </div>
 
 
